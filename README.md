@@ -1,8 +1,8 @@
-War Card Game
+## **War Card Game**
 Overview
 This project is a Python implementation of the classic two-player card game "War." The program employs object-oriented programming (OOP) concepts to simulate deck management, card comparison, and gameplay mechanics.
 
-Features
+## **Features**
 Dynamic Deck Creation:
 
 A deck of 52 cards is generated with suits and ranks.
