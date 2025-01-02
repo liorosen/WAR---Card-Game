@@ -1,5 +1,5 @@
 ## **War Card Game**
-<ins> ## **Overview** </ins>
+ ## **Overview** 
 This project is a Python implementation of the classic two-player card game "War." The program employs object-oriented programming (OOP) concepts to simulate deck management, card comparison, and gameplay mechanics.
 
 ## **Features**
