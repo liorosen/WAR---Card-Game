@@ -27,4 +27,5 @@ Player: Tracks each player's cards dynamically.<br>
 <ins>Dynamic Memory and Lists:</ins><br>
 Lists are used to manage player hands and the deck of cards.<br>
 Extend and pop methods simulate card distribution and play.<br>
+
 <ins>Randomization: </ins>Uses Python's random.shuffle for realistic deck shuffling.
